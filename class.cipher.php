@@ -42,3 +42,4 @@ class Cipher
     return $this->phash(implode($pass));
     }
   }
+?>

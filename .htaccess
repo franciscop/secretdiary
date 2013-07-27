@@ -1,0 +1,13 @@
+<IfModule mod_rewrite.c>
+RewriteEngine On
+
+# For some shady reason, this redirect should be first.
+# Redirect http://www.secretdiary.org/ to http://secretdiary.org/
+RewriteCond %{HTTP_HOST} !^secretdiary.org$ [NC]
+RewriteRule ^(.*)$ http://secretdiary.org/$1 [L,R=301]
+
+# Change secretdiary.org/index.php?url=URL to secretdiary.org/URL on the browser's url
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?url=$1 [PT,L]
+</IfModule>
