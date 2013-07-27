@@ -10,7 +10,7 @@ $Encrypt->save();
 ?>
 
 This is your locked door:
-<input readonly value = "<?= $BaseUrl . $Encrypt->get('Id') . "/"; ?>"><br><br>
+<input readonly value = "http://<?= $_SERVER[HTTP_HOST] . "/" . $Encrypt->get('Id') . "/"; ?>"><br><br>
 
 <? if (empty($_POST['password'])) { ?>
   And this is your generated key, don't forget it:

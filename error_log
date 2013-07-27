@@ -1,0 +1,38 @@
+[27-Jul-2013 08:24:15 America/Denver] PHP Notice:  Undefined variable: BaseUrl in /home5/nkodersc/public_html/secretdiary/lock.php on line 13
+[27-Jul-2013 08:24:19 America/Denver] PHP Fatal error:  Interface 'Shape' not found in /home5/nkodersc/public_html/secretdiary/test.php on line 8
+[27-Jul-2013 08:46:11 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 36
+[27-Jul-2013 08:46:16 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 30
+[27-Jul-2013 08:46:16 America/Denver] PHP Notice:  Undefined variable: BaseUrl in /home5/nkodersc/public_html/secretdiary/lock.php on line 13
+[27-Jul-2013 08:46:26 America/Denver] PHP Notice:  Undefined variable: BaseUrl in /home5/nkodersc/public_html/secretdiary/lock.php on line 13
+[27-Jul-2013 08:48:42 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
+[27-Jul-2013 08:48:47 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 35
+[27-Jul-2013 08:48:58 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 35
+[27-Jul-2013 08:55:30 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:55:30 America/Denver] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:55:30 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 35
+[27-Jul-2013 08:55:32 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:55:32 America/Denver] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:55:32 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
+[27-Jul-2013 08:55:47 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:55:47 America/Denver] PHP Notice:  Use of undefined constant REQUEST_URI - assumed 'REQUEST_URI' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:55:47 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
+[27-Jul-2013 08:55:57 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:55:57 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
+[27-Jul-2013 08:56:10 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:56:10 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
+[27-Jul-2013 08:56:15 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:56:15 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
+[27-Jul-2013 08:56:18 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:56:18 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
+[27-Jul-2013 08:56:24 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:56:24 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 35
+[27-Jul-2013 08:56:29 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:56:29 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
+[27-Jul-2013 08:56:32 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:56:32 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
+[27-Jul-2013 08:56:35 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home5/nkodersc/public_html/secretdiary/config.php on line 14
+[27-Jul-2013 08:56:35 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
+[27-Jul-2013 08:57:15 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
+[27-Jul-2013 08:57:15 America/Denver] PHP Notice:  Use of undefined constant HTTP_HOST - assumed 'HTTP_HOST' in /home5/nkodersc/public_html/secretdiary/lock.php on line 13
+[27-Jul-2013 08:57:20 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
+[27-Jul-2013 08:57:23 America/Denver] PHP Notice:  Undefined variable: Public in /home5/nkodersc/public_html/secretdiary/index.php on line 29
