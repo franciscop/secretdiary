@@ -1,4 +1,11 @@
 <?php
+// Redirect if there's no trailing slash
+if (!empty($_GET['url']) && substr($_GET['url'], -1) != "/")
+  {
+  header ('HTTP/1.1 301 Moved Permanently');
+  header ("Location: http://secretdiary.org/" . htmlspecialchars($_GET['url']) . "/");
+  }
+
 // Allow only for this script to access 'config.php'
 $ConfigSet = TRUE;
 include './config.php';
